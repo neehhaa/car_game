@@ -1,4 +1,4 @@
-# car_game
+# car
 
 There is a car with 50L of petrol.
 It needs to travel from 0 to 100 KMs.
